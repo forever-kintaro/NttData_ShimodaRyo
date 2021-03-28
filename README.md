@@ -21,5 +21,5 @@ Panasonic Let’s note CF-SZ5
 Intel COREi7-6500U 2.5GHz 2.9GHz
 メモリ8GB
 Windows10 pro  64bit
-------------------------
+
 
